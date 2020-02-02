@@ -1,0 +1,24 @@
+{
+  "name": "oritelos",
+  "version": "0.0.1",
+  "description": "origamicore eos telos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahidHossaini/oritelos.git"
+  },
+  "keywords": [
+    "origamicore",
+    "eos",
+    "telos"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahidHossaini/oritelos/issues"
+  },
+  "homepage": "https://github.com/vahidHossaini/oritelos#readme"
+}
